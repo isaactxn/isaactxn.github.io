@@ -13,14 +13,6 @@
     z-index: -1;
   }
 
-  @media (max-width: 750px) {
-    #background-video { display: none; }
-    body {
-      background: url("family.HEIC") no-repeat;
-      background-size: cover;
-    }
-}
-
   body {
     font-family: 'Prompt', sans-serif;
   }
