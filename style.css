@@ -17,7 +17,7 @@
     font-family: 'Prompt', sans-serif;
     background-image: url('fatherday.GIF');
     background-size:100%;
-    background-repeat: no-repeat;
+    background-repeat: repeat-y;
     background-position: fixed;
     left: 0;
     right: 0;
