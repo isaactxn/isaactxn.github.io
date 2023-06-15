@@ -16,6 +16,7 @@
   body {
     font-family: 'Prompt', sans-serif;
     background-image: url('fatherday.GIF');
+    position: fixed;
     background-size: cover;
     
   }
