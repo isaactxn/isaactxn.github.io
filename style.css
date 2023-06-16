@@ -13,10 +13,10 @@
     z-index: -1;
   } */
 
-    body {
+  body {
     font-family: 'Prompt', sans-serif;
     background-image: url('fatherday.GIF');
-    background-size: 100%;
+    background-size:100%;
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-color: #2861dc;
@@ -25,6 +25,7 @@
     top: 0;
     bottom: 0;
     z-index: -1;
+    
   }
 
   .maintext {
