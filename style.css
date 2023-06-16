@@ -13,7 +13,7 @@
     z-index: -1;
   } */
 
-  body {
+  @media (max-width: 767px) { body {
     font-family: 'Prompt', sans-serif;
     background-image: url('fatherday.GIF');
     background-size:100%;
@@ -25,7 +25,7 @@
     top: 0;
     bottom: 0;
     z-index: -1;
-  }
+  } }
 
   .maintext {
     text-align: center;
