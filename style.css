@@ -13,19 +13,19 @@
     z-index: -1;
   } */
 
-  @media (max-width: 767px) { body {
+    body {
     font-family: 'Prompt', sans-serif;
     background-image: url('fatherday.GIF');
-    background-size:100%;
+    background-size: 100%;
     background-repeat: no-repeat;
-    background-attachment: initial;
+    background-attachment: fixed;
     background-color: #2861dc;
     left: 0;
     right: 0;
     top: 0;
     bottom: 0;
     z-index: -1;
-  } }
+  }
 
   .maintext {
     text-align: center;
