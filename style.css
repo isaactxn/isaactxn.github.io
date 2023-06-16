@@ -17,8 +17,9 @@
     font-family: 'Prompt', sans-serif;
     background-image: url('fatherday.GIF');
     background-size:100%;
-    background-repeat: repeat-y;
-    background-position: fixed;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-color: #2861dc;
     left: 0;
     right: 0;
     top: 0;
@@ -34,7 +35,8 @@
     padding: 40px;
   }
 
-  .scrolldown {
+  .message {
     text-align: center;
     color: #ffffff;
+    font-size: 30px;
   }
